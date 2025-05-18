@@ -1,0 +1,34 @@
+{
+    "mappings": {
+        "Contract": {
+            "Month-to-month": 0,
+            "One year": 1,
+            "Two year": 2
+        },
+        "MultipleLines": {
+            "No phone service": -1,
+            "No": 0,
+            "Yes": 1
+        },
+        "PaymentMethod": {
+            "Electronic check": 0,
+            "Mailed check": 1,
+            "Bank transfer (automatic)": 2,
+            "Credit card (automatic)": 3
+        },
+        "InternetService": {
+            "DSL": 1,
+            "Fiber optic": 2,
+            "0": 0
+        },
+        "YesNoColumns": {
+            "No": 0,
+            "Yes": 1
+        }
+    },
+    "scaling": {
+        "TotalCharges": 1000,
+        "MonthlyCharges": 1000,
+        "tenure": 100
+    }
+}
