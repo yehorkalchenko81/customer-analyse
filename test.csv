@@ -1,0 +1,6 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges
+0001-FG, Female, 0, Yes, No, 5, Yes, No, DSL, Yes, No, Yes, No, Yes, No, Month-to-month, Yes, Electronic check, 70.35, 351.75
+0002-FG, Male, 1, No, No, 2, Yes, Yes, Fiber optic, No, No, No, No, No, No, Month-to-month, Yes, Electronic check, 89.10, 178.20
+0003-FG, Male, 0, Yes, No, 24, Yes, No, DSL, Yes, Yes, Yes, Yes, No, No, One year, No, Bank transfer (automatic), 56.95, 1366.80
+0004-FG, Female, 0, No, No, 12, Yes, No phone service, No, No internet service, No internet service, No internet service, No internet service, No internet service, No internet service, Month-to-month, Yes, Mailed check, 18.95, 227.40
+0005-FG, Female, 1, No, Yes, 48, Yes, Yes, Fiber optic, No, No, No, No, Yes, Yes, Two year, Yes, Credit card (automatic), 99.25, 4776.00
